@@ -1,0 +1,1 @@
+export const spec = 'test/**/*.test.js';

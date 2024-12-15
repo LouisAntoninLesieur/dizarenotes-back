@@ -1,0 +1,1 @@
+export const interpolate = (str, vars) => str.replace(/\${(.*?)}/g, (_, v) => vars[v]);
